@@ -30,13 +30,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open the BBMP eAasthi Website", kn: "ಹಂತ 1: BBMP eAasthi ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ" },
+        title: { en: "Step 1: Find 'Apply for e-Khata' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Apply for e-Khata' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open your web browser (Chrome or Firefox). Type 'bbmpeaasthi.karnataka.gov.in' in the address bar and press Enter. You will see the BBMP eAasthi homepage.",
-          kn: "ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ (Chrome ಅಥವಾ Firefox) ತೆರೆಯಿರಿ. ಅಡ್ರೆಸ್ ಬಾರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ಎಂದು ಟೈಪ್ ಮಾಡಿ Enter ಒತ್ತಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, look for the 'Apply for e-Khata' option in the Citizen Services section (highlighted below). Click on it to begin your application.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ ನಾಗರಿಕ ಸೇವೆಗಳ ವಿಭಾಗದಲ್ಲಿ 'Apply for e-Khata' ಆಯ್ಕೆಯನ್ನು ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
         image: bbmpHomepage,
-        highlightArea: { top: "8%", left: "5%", width: "90%", height: "8%" },
+        highlightArea: { top: "30%", left: "5%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Register on the Portal", kn: "ಹಂತ 2: ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನೋಂದಣಿ ಮಾಡಿ" },
