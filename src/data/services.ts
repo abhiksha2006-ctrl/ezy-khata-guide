@@ -110,12 +110,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open the Website and Login", kn: "ಹಂತ 1: ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ಲಾಗಿನ್ ಆಗಿ" },
+        title: { en: "Step 1: Find 'Download e-Khata' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Download e-Khata' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. Login with your Username and Password.",
-          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ನಿಮ್ಮ ಬಳಕೆದಾರ ಹೆಸರು ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್‌ನೊಂದಿಗೆ ಲಾಗಿನ್ ಆಗಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'Download e-Khata' option (highlighted below). Click on it. You will be asked to login first.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'Download e-Khata' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
-        image: loginPage,
+        image: bbmpHomepage,
+        highlightArea: { top: "30%", left: "68%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Go to Download Section", kn: "ಹಂತ 2: ಡೌನ್‌ಲೋಡ್ ವಿಭಾಗಕ್ಕೆ ಹೋಗಿ" },
