@@ -172,12 +172,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Login to the Portal", kn: "ಹಂತ 1: ಪೋರ್ಟಲ್‌ಗೆ ಲಾಗಿನ್ ಆಗಿ" },
+        title: { en: "Step 1: Find 'Mutation/Transfer' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Mutation/Transfer' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open 'bbmpeaasthi.karnataka.gov.in' and login. You must be the legal heir or have proper documentation for the transfer.",
-          kn: "'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ ಮತ್ತು ಲಾಗಿನ್ ಆಗಿ. ನೀವು ಕಾನೂನುಬದ್ಧ ಉತ್ತರಾಧಿಕಾರಿಯಾಗಿರಬೇಕು ಅಥವಾ ವರ್ಗಾವಣೆಗೆ ಸರಿಯಾದ ದಾಖಲೆಗಳನ್ನು ಹೊಂದಿರಬೇಕು."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'Mutation' or 'Khata Transfer' option (highlighted below). Click on it. You must be the legal heir or have proper documentation.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'Mutation' ಅಥವಾ 'Khata Transfer' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
-        image: loginPage,
+        image: bbmpHomepage,
+        highlightArea: { top: "40%", left: "37%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Select 'Mutation/Transfer' Service", kn: "ಹಂತ 2: 'ಮ್ಯುಟೇಶನ್/ವರ್ಗಾವಣೆ' ಸೇವೆ ಆಯ್ಕೆ" },
