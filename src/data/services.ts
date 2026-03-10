@@ -83,12 +83,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open the BBMP eAasthi Website", kn: "ಹಂತ 1: BBMP eAasthi ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ" },
+        title: { en: "Step 1: Find 'Track Application' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Track Application' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open your browser and go to 'bbmpeaasthi.karnataka.gov.in'. Look for the 'Track Application' or 'Check Status' option on the homepage.",
-          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್ ತೆರೆಯಿರಿ ಮತ್ತು 'bbmpeaasthi.karnataka.gov.in' ಗೆ ಹೋಗಿ. ಮುಖಪುಟದಲ್ಲಿ 'Track Application' ಅಥವಾ 'Check Status' ಆಯ್ಕೆ ಹುಡುಕಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'Track Application' or 'Check Status' option (highlighted below). Click on it.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'Track Application' ಅಥವಾ 'Check Status' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
         image: bbmpHomepage,
+        highlightArea: { top: "30%", left: "37%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Enter Your ePID Number", kn: "ಹಂತ 2: ನಿಮ್ಮ ePID ಸಂಖ್ಯೆ ನಮೂದಿಸಿ" },
