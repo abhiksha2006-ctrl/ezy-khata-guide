@@ -30,13 +30,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open the BBMP eAasthi Website", kn: "ಹಂತ 1: BBMP eAasthi ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ" },
+        title: { en: "Step 1: Find 'Apply for e-Khata' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Apply for e-Khata' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open your web browser (Chrome or Firefox). Type 'bbmpeaasthi.karnataka.gov.in' in the address bar and press Enter. You will see the BBMP eAasthi homepage.",
-          kn: "ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ (Chrome ಅಥವಾ Firefox) ತೆರೆಯಿರಿ. ಅಡ್ರೆಸ್ ಬಾರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ಎಂದು ಟೈಪ್ ಮಾಡಿ Enter ಒತ್ತಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, look for the 'Apply for e-Khata' option in the Citizen Services section (highlighted below). Click on it to begin your application.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ ನಾಗರಿಕ ಸೇವೆಗಳ ವಿಭಾಗದಲ್ಲಿ 'Apply for e-Khata' ಆಯ್ಕೆಯನ್ನು ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
         image: bbmpHomepage,
-        highlightArea: { top: "8%", left: "5%", width: "90%", height: "8%" },
+        highlightArea: { top: "30%", left: "5%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Register on the Portal", kn: "ಹಂತ 2: ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನೋಂದಣಿ ಮಾಡಿ" },
@@ -83,12 +83,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open the BBMP eAasthi Website", kn: "ಹಂತ 1: BBMP eAasthi ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ" },
+        title: { en: "Step 1: Find 'Track Application' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Track Application' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open your browser and go to 'bbmpeaasthi.karnataka.gov.in'. Look for the 'Track Application' or 'Check Status' option on the homepage.",
-          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್ ತೆರೆಯಿರಿ ಮತ್ತು 'bbmpeaasthi.karnataka.gov.in' ಗೆ ಹೋಗಿ. ಮುಖಪುಟದಲ್ಲಿ 'Track Application' ಅಥವಾ 'Check Status' ಆಯ್ಕೆ ಹುಡುಕಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'Track Application' or 'Check Status' option (highlighted below). Click on it.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'Track Application' ಅಥವಾ 'Check Status' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
         image: bbmpHomepage,
+        highlightArea: { top: "30%", left: "37%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Enter Your ePID Number", kn: "ಹಂತ 2: ನಿಮ್ಮ ePID ಸಂಖ್ಯೆ ನಮೂದಿಸಿ" },
@@ -109,12 +110,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open the Website and Login", kn: "ಹಂತ 1: ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ಲಾಗಿನ್ ಆಗಿ" },
+        title: { en: "Step 1: Find 'Download e-Khata' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Download e-Khata' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. Login with your Username and Password.",
-          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ನಿಮ್ಮ ಬಳಕೆದಾರ ಹೆಸರು ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್‌ನೊಂದಿಗೆ ಲಾಗಿನ್ ಆಗಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'Download e-Khata' option (highlighted below). Click on it. You will be asked to login first.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'Download e-Khata' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
-        image: loginPage,
+        image: bbmpHomepage,
+        highlightArea: { top: "30%", left: "68%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Go to Download Section", kn: "ಹಂತ 2: ಡೌನ್‌ಲೋಡ್ ವಿಭಾಗಕ್ಕೆ ಹೋಗಿ" },
@@ -135,12 +137,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open Website and Login", kn: "ಹಂತ 1: ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ಲಾಗಿನ್ ಆಗಿ" },
+        title: { en: "Step 1: Find 'Khata Conversion' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Khata Conversion' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open 'bbmpeaasthi.karnataka.gov.in' and login with your credentials. If you don't have an account, register first (see 'Apply e-Khata' guide for registration steps).",
-          kn: "ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ನಿಮ್ಮ ರುಜುವಾತುಗಳೊಂದಿಗೆ ಲಾಗಿನ್ ಆಗಿ. ನಿಮಗೆ ಖಾತೆ ಇಲ್ಲದಿದ್ದರೆ, ಮೊದಲು ನೋಂದಣಿ ಮಾಡಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'B-Khata to A-Khata Conversion' option in the Citizen Services section (highlighted below). Click on it.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'B-Khata to A-Khata Conversion' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
-        image: loginPage,
+        image: bbmpHomepage,
+        highlightArea: { top: "40%", left: "5%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Select 'Khata Conversion' Service", kn: "ಹಂತ 2: 'ಖಾತಾ ಪರಿವರ್ತನೆ' ಸೇವೆ ಆಯ್ಕೆ ಮಾಡಿ" },
@@ -169,12 +172,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Login to the Portal", kn: "ಹಂತ 1: ಪೋರ್ಟಲ್‌ಗೆ ಲಾಗಿನ್ ಆಗಿ" },
+        title: { en: "Step 1: Find 'Mutation/Transfer' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Mutation/Transfer' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open 'bbmpeaasthi.karnataka.gov.in' and login. You must be the legal heir or have proper documentation for the transfer.",
-          kn: "'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ ಮತ್ತು ಲಾಗಿನ್ ಆಗಿ. ನೀವು ಕಾನೂನುಬದ್ಧ ಉತ್ತರಾಧಿಕಾರಿಯಾಗಿರಬೇಕು ಅಥವಾ ವರ್ಗಾವಣೆಗೆ ಸರಿಯಾದ ದಾಖಲೆಗಳನ್ನು ಹೊಂದಿರಬೇಕು."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'Mutation' or 'Khata Transfer' option (highlighted below). Click on it. You must be the legal heir or have proper documentation.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'Mutation' ಅಥವಾ 'Khata Transfer' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
-        image: loginPage,
+        image: bbmpHomepage,
+        highlightArea: { top: "40%", left: "37%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Select 'Mutation/Transfer' Service", kn: "ಹಂತ 2: 'ಮ್ಯುಟೇಶನ್/ವರ್ಗಾವಣೆ' ಸೇವೆ ಆಯ್ಕೆ" },
