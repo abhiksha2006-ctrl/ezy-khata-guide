@@ -137,12 +137,13 @@ export const services: Service[] = [
     directLink: "https://bbmpeaasthi.karnataka.gov.in/",
     steps: [
       {
-        title: { en: "Step 1: Open Website and Login", kn: "ಹಂತ 1: ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ಲಾಗಿನ್ ಆಗಿ" },
+        title: { en: "Step 1: Find 'Khata Conversion' on the Homepage", kn: "ಹಂತ 1: ಮುಖಪುಟದಲ್ಲಿ 'Khata Conversion' ಹುಡುಕಿ" },
         instruction: {
-          en: "Open 'bbmpeaasthi.karnataka.gov.in' and login with your credentials. If you don't have an account, register first (see 'Apply e-Khata' guide for registration steps).",
-          kn: "ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ನಿಮ್ಮ ರುಜುವಾತುಗಳೊಂದಿಗೆ ಲಾಗಿನ್ ಆಗಿ. ನಿಮಗೆ ಖಾತೆ ಇಲ್ಲದಿದ್ದರೆ, ಮೊದಲು ನೋಂದಣಿ ಮಾಡಿ."
+          en: "Open 'bbmpeaasthi.karnataka.gov.in' in your browser. On the homepage, find the 'B-Khata to A-Khata Conversion' option in the Citizen Services section (highlighted below). Click on it.",
+          kn: "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ 'bbmpeaasthi.karnataka.gov.in' ತೆರೆಯಿರಿ. ಮುಖಪುಟದಲ್ಲಿ 'B-Khata to A-Khata Conversion' ಆಯ್ಕೆ ಹುಡುಕಿ (ಕೆಳಗೆ ಗುರುತಿಸಲಾಗಿದೆ). ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
         },
-        image: loginPage,
+        image: bbmpHomepage,
+        highlightArea: { top: "40%", left: "5%", width: "28%", height: "6%" },
       },
       {
         title: { en: "Step 2: Select 'Khata Conversion' Service", kn: "ಹಂತ 2: 'ಖಾತಾ ಪರಿವರ್ತನೆ' ಸೇವೆ ಆಯ್ಕೆ ಮಾಡಿ" },
